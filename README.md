@@ -1,2 +1,3 @@
 # vtop-profile-manager
-first java project
+###### Its a prototype of VTOP
+## where we can create new profile under student section, faculty section, staff section, alumni section. 
