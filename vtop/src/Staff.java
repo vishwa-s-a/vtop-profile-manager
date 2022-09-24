@@ -1,3 +1,11 @@
+/**
+ * @author vishwa shivanand appaji
+ * @since  24-09-2022
+ * This class inherits from AbstractPerson class and also has its own other private properties and public methods
+ * This class is meant for storing and accessing the staff's details.
+ * It has constructors and toString() methods for accessing the staff's details
+ * Getters and setters are there to accessing and modifying the properties
+ */
 import java.time.LocalDate;
 
 public class Staff extends AbstractPerson{

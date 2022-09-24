@@ -1,6 +1,7 @@
 /**
  * @author vishwa shivanand appaji
  * @since 24-09-2022
+ * This class is used by other classes for storing user defined custom data type
  * This class is used for storing address of the person in a proper human understandable format.
  * Here we use the constructors to set the address of the person, then we have toString() method by which we
  *  can get address containing building details, area, landmark, district, state, pincode.

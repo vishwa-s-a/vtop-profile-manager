@@ -1,3 +1,11 @@
+/**
+ * @author vishwa shivanand appaji
+ * @since 24-09-2022
+ * This is a abstract class, from which we inherit other classes such as Student, Faculty, Staff, Alumni and create
+ *  objects for these inherited classes
+ * This class also has some normal methods other than abstract methods
+ */
+
 import java.time.LocalDate;
 abstract class AbstractPerson {
     protected Name name;
