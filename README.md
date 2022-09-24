@@ -6,5 +6,8 @@
 2. Inheritance
 3. Abstraction, abstract classes
 4. other basic java concepts.
+#### This is how the initial part of the program looks
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/103145847/192111174-232e2c6b-c1a2-452c-88d2-c45f4713ef2a.png">
+
  
 
