@@ -1,3 +1,11 @@
+/**
+ * @author vishwa shivanand appaji
+ * @since 24-09-2022
+ * This class is used for storing address of the person in a proper human understandable format.
+ * Here we use the constructors to set the address of the person, then we have toString() method by which we
+ *  can get address containing building details, area, landmark, district, state, pincode.
+ * We also have various setters and getters to modify the properties of this class
+ */
 public class Address {
     private String doorNumber;
     private String area;
