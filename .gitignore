@@ -1,5 +1,4 @@
 # Project exclude paths
 out/
 .idea/
-vtop.iml
 vtop-profile-manager.iml
