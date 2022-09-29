@@ -1,6 +1,5 @@
 # Project exclude paths
-/out/
+out/
 .idea/
-src/
 vtop.iml
-FirstJavaProgram1.iml
+vtop-profile-manager.iml
